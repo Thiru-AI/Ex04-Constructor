@@ -30,8 +30,8 @@ Run and execute the Program.
  
  ## Program:
  ```
- Developed by: Ragul A C
- Register no: 212221240042
+ Developed by: Thirugnanamoorthi G
+ Register no: 212221230117
  ```
  ```
  using System;
